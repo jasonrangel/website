@@ -1,0 +1,29 @@
+body {
+    padding: 40px;
+  }
+  
+  .title {
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+    background: #003f98
+  }
+  
+  .section {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #003f98;
+  }
+  
+  .questions {
+    margin-top: 48px;
+    font-weight: bold;
+  }
+  
+  .answer {
+    border-top: 1px solid #ccc;
+    margin-top: 12px;
+    padding-top: 12px;
+    line-height: 24px;
+  }
+  
